@@ -1,0 +1,4 @@
+0 Kamien kamienie 1 100 7 8 Bardzo twardy kamien
+1 Kamien3 kamienie 0 9942 7 -1 Kruchy kamien zielony
+3 Kamien_Szlachetny kamienie_szlachetne 1 99913 7 8 Bardzo szlachetny kamien
+2 Kot_Do_Palenia zuomarket 1 666 8 7 Firmy "ALIK", Czas palenia - 40min, Wypchany siarka, ZAPALKI GRATIS!
